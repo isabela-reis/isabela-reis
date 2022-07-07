@@ -5,7 +5,7 @@
 - 🌱 Estudando JavaScript
 - 😄 Pronome: Ela/dela
 
-<div align="center">
+<div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabela-reis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela-reis&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -22,7 +22,7 @@
   ##
   
   <div>
-  <a href = "mailto:isabela_pr@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isabela_pr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="www.linkedin.com/in/isabela-dos-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
