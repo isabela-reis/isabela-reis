@@ -4,8 +4,10 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
 - 😄 Pronome: Ela/dela
-<div>
-<img align="right" alt="Rafa-pic" height="200" style="border-radius:400px;" src="https://user-images.githubusercontent.com/101959073/177890761-230e45b4-5103-4d30-bca8-adeabc9b7cb7.gif">
+
+##
+ <div>
+<img align="right" alt="Isa-gif" height="170" style="border-radius:600px;" src="https://user-images.githubusercontent.com/101959073/177891260-6fe3da23-d572-412b-a112-29cd7cec9e02.gif">
 </div>
 <div>
   <a href="https://github.com/isabela-reis">
@@ -21,8 +23,11 @@
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
  </div> 
- 
+
   ##
+   <div>
+<img align="right" alt="Isa-gif" height="170" style="border-radius:600px;" src="https://user-images.githubusercontent.com/101959073/177891260-6fe3da23-d572-412b-a112-29cd7cec9e02.gif">
+</div>
   
   <div>
   <a href = "mailto:isabela_pr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
