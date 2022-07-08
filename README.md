@@ -4,7 +4,9 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
 - 😄 Pronome: Ela/dela
-
+<div>
+<img align="right" alt="Rafa-pic" height="200" style="border-radius:400px;" src="https://user-images.githubusercontent.com/101959073/177890761-230e45b4-5103-4d30-bca8-adeabc9b7cb7.gif">
+</div>
 <div>
   <a href="https://github.com/isabela-reis">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=isabela-reis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -17,6 +19,7 @@
   <img align="center" alt="Isa-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
  </div> 
  
   ##
