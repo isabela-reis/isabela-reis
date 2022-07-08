@@ -7,7 +7,7 @@
 
 ##
  <div>
-<img align="right" alt="Isa-gif" height="170" style="border-radius:600px;" src="https://user-images.githubusercontent.com/101959073/177891260-6fe3da23-d572-412b-a112-29cd7cec9e02.gif">
+<img align="right" alt="Isa-gif" height="140" style="border-radius:600px;" src="https://user-images.githubusercontent.com/101959073/177891260-6fe3da23-d572-412b-a112-29cd7cec9e02.gif">
 </div>
 
 <div>
