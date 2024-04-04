@@ -15,7 +15,7 @@ Trabalhei durante cinco anos na área administrativa até que me encontrei dentr
 </p>
 
 <h2 align="left">
-  👩‍💻  Currently learning
+  🌱  Currently learning
 </h2>
 
 <div>
@@ -51,7 +51,7 @@ Trabalhei durante cinco anos na área administrativa até que me encontrei dentr
 </hr>
 
 <h2 align="left">
-  👾 My workspace: 
+  👩‍💻 My workspace: 
 </h2>
 
 <div>
