@@ -41,7 +41,6 @@ Trabalhei durante cinco anos na área administrativa até que me encontrei dentr
   <img height="50px" src="https://img.icons8.com/color/512/spring-logo.png"/>
   <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/18d7d205-4beb-483b-bb00-ea6c26394072"/> 
 
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>  
   <img height="50px" src="https://huongdanjava.com/wp-content/uploads/2017/07/maven.png"/>
   <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/1e612cf2-122f-4524-9658-f551e4ca4ac5"/>
   
