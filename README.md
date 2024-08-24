@@ -8,23 +8,22 @@
 
 <p align="left">
 <h3>Desenvolvedora Backend Java</h3>
-<hr>
 Olá, seja bem-vindo, eu sou a Isabela! <br>
 Trabalhei durante cinco anos na área administrativa até que me encontrei dentro do universo da tecnologia! Sou formada em Análise e Desenvolvimento de Sistemas e desde o início do curso gostei de trabalhar com Java, então decidi buscar mais conhecimento sobre. Estou estudando e desenvolvendo projetos pessoais em há pouco mais de 2 anos e sigo aprimorando minhas habilidades.  🚀  
-<br><br>
+<br>
 </p>
 
 <h2 align="left">
-  🌱  Currently learning
+  Estudando atualmente
 </h2>
 
 <div>
   <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/bc15b1cb-031b-4700-a432-bedee8d34807"/>
-   <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/9c30fd94-7f27-415b-986e-f400dc62b834"/><br><br>
+   <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/9c30fd94-7f27-415b-986e-f400dc62b834"/><br>
 </div>
 
 <h2 align="left">
-  ⚒️ Technologies and tools
+  Tecnologias e ferramentas
 </h2>
 
 <div>
@@ -44,21 +43,13 @@ Trabalhei durante cinco anos na área administrativa até que me encontrei dentr
   <img height="50px" src="https://huongdanjava.com/wp-content/uploads/2017/07/maven.png"/>
   <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/1e612cf2-122f-4524-9658-f551e4ca4ac5"/>
   
-  
-  <br><br>
+  <br>
 </div>
-</hr>
 
-<h2 align="left">
-  👩‍💻 My workspace: 
-</h2>
+<h2>Contato<h2>
 
-<div>
-  <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/a9200a38-9a00-4d53-8b15-2a4cd4147661"/>
-  <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/852972d1-1a47-48a1-86d7-a5ec5e8d5ea8"/>
-  <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/b95b4e49-1341-439a-be5e-358aa8f8fe8c"/>
-  <img height="50px" src="https://github.com/isabela-reis/isabela-reis/assets/101959073/e527380a-66ce-4ed3-90c0-6b76710f394e"/><br><br>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-dos-reis/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isabelareis.dev@gmail.com)
 
 
 
