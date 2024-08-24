@@ -10,7 +10,7 @@
 <h3>Desenvolvedora Backend Java</h3>
 <hr>
 Olá, seja bem-vindo, eu sou a Isabela! <br>
-Trabalhei durante cinco anos na área administrativa até que me encontrei dentro do universo da tecnologia! Atualmente, estou cursando o último semestre de ADS e desde o início do curso gostei mais de trabalhar com Java do que com as demais linguagens, por esse motivo, decidi buscar mais conhecimento sobre. Estou estudando e desenvolvendo projetos em Java há pouco mais de 2 anos e sigo aprofundando meu conhecimento e aprimorando minhas habilidades. 🚀  
+Trabalhei durante cinco anos na área administrativa até que me encontrei dentro do universo da tecnologia! Sou formada em Análise e Desenvolvimento de Sistemas e desde o início do curso gostei de trabalhar com Java, então decidi buscar mais conhecimento sobre. Estou estudando e desenvolvendo projetos pessoais em há pouco mais de 2 anos e sigo aprimorando minhas habilidades.  🚀  
 <br><br>
 </p>
 
